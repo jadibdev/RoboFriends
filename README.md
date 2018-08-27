@@ -1,3 +1,5 @@
+Robofriends is a React App that displays Robots along with some info on Cards, there is a search box to look up your favorite robot, it was a cool small project to learn how to put components together, pull information from state and render it on the page.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
